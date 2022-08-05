@@ -8,7 +8,12 @@ I'm Java Developer and Junior Project Manager currently studying @FIT CVUT in Pr
 - My life
 
 ## 🌱 I’m currently learning
-- Python
+- Python (3 months)
 
-## 📫 How to reach me:
+## 🏆 What do I know so far
+- Java SE (9 years)
+- Java Spigot API (6 years)
+- C++ (2 years)
+
+## 📫 How to reach me
 - Discord: MrApik#0007
